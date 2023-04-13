@@ -1,0 +1,28 @@
+hod.techademy1@gmail.com
+hod.techademy2@gmail.com
+
+
+faculty.techademy1@gmail.com
+faculty.techademy2@gmail.com
+
+student.techademy1@gmail.com
+student.techademy2@gmail.com
+
+registar.techademy1@gmail.com
+registar.techademy2@gmail.com
+
+password:Techademy@01
+
+
+
+
+
+
+
+
+au-registrar@techademycampusdev.onmicrosoft.com
+ au-hod@techademycampusdev.onmicrosoft.com 
+au-faculty@techademycampusdev.onmicrosoft.com 
+au-student@techademycampusdev.onmicrosoft.com
+
+ Password:AnnaUniversity@01

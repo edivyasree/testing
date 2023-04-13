@@ -1,0 +1,30 @@
+au-registrar@techademycampusdev.onmicrosoft.com
+ au-hod@techademycampusdev.onmicrosoft.com 
+au-faculty@techademycampusdev.onmicrosoft.com 
+au-student@techademycampusdev.onmicrosoft.com
+
+ Password:AnnaUniversity@01
+
+
+to install node modules: npm install --legacy-peer-deps
+
+to run the application : npm run start:local-dev
+
+
+
+{"isSuccess":true,"errorMessage":null,"user":{"id":"31641d5b-6db4-4265-98ce-5a892bd0ac2e","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231","firstName":"Techademy","middleName":"","lastName":"","email":"techacadamey111@gmail.com","mobileNumber":"","role":"Student","createdDate":null,"userPersonalInformation":{"userId":"31641d5b-6db4-4265-98ce-5a892bd0ac2e","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231","gender":"female","maritalStatus":"unMarried","dateOfBirth":"2023-08-05T18:30:00Z","idType":10,"idNumber":"8529","currentAddressLine_1":"Hyderabad","currentAddressLine_2":null,"currentCity":"pune","currentState":"maharashtra","currentCountry":"india","currentPostalCode":"5000078","permanentAddressLine_1":"Hyderabad","permanentAddressLine_2":null,"permanentCity":"pune","permanentState":"maharashtra","permanentCountry":"india","permanentPostalCode":"5000078","fatherName":"Ram","motherName":"","fatherMobileNumber":"","motherMobileNumber":"","fatherEmail":"","motherEmail":"","imageURL":null,"lastModificationTime":null,"lastModifierId":null,"creationTime":"2023-03-21T09:51:36.9079276+00:00","creatorId":"37e618ad-f8e6-4054-9e48-a38e8f87ff82","id":40},"userCourseInformation":[{"userId":"31641d5b-6db4-4265-98ce-5a892bd0ac2e","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231","courseId":"1a55d075-602b-aecb-bc69-3a09d1de4883","clusterId":25,"departmentId":17,"dateOfJoining":null,"designationId":null}],"userAdditionalInformation":null,"userMetaData":{"userId":"31641d5b-6db4-4265-98ce-5a892bd0ac2e","middleName":"","uid":"40805790","abcid":"7be1da6d","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231"},"userEducations":[{"userId":"31641d5b-6db4-4265-98ce-5a892bd0ac2e","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231","education":"Graduation","institutionName":"JNTUH","university":"JNTUH","degree":"B.Tech","startDate":null,"endDate":null,"lastModificationTime":null,"lastModifierId":null,"creationTime":"2023-03-21T09:51:37.2398761+00:00","creatorId":"37e618ad-f8e6-4054-9e48-a38e8f87ff82","id":28}]}}
+
+
+
+
+
+
+
+
+
+Tech@123456789
+
+
+
+
+{"isSuccess":true,"errorMessage":null,"user":{"id":"8bd4e8ee-de32-42f0-bbbc-b849213f4265","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231","firstName":"Divya","middleName":"","lastName":"","email":"edivyasree@gmail.com","mobileNumber":"","role":"Student","createdDate":null,"userPersonalInformation":{"userId":"8bd4e8ee-de32-42f0-bbbc-b849213f4265","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231","gender":"female","maritalStatus":"married","dateOfBirth":"1999-08-05T18:30:00Z","idType":10,"idNumber":"","currentAddressLine_1":"","currentAddressLine_2":null,"currentCity":"pune","currentState":"karnataka","currentCountry":"india","currentPostalCode":"85632056","permanentAddressLine_1":"","permanentAddressLine_2":null,"permanentCity":"pune","permanentState":"karnataka","permanentCountry":"india","permanentPostalCode":"85632056","fatherName":"","motherName":"","fatherMobileNumber":"","motherMobileNumber":"","fatherEmail":"","motherEmail":"","imageURL":null,"lastModificationTime":null,"lastModifierId":null,"creationTime":"2023-03-21T10:08:50.0768477+00:00","creatorId":"37e618ad-f8e6-4054-9e48-a38e8f87ff82","id":42},"userCourseInformation":[{"userId":"8bd4e8ee-de32-42f0-bbbc-b849213f4265","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231","courseId":"63c34399-5ffa-2057-5831-3a09d839b7f0","clusterId":26,"departmentId":16,"dateOfJoining":null,"designationId":null}],"userAdditionalInformation":null,"userMetaData":{"userId":"8bd4e8ee-de32-42f0-bbbc-b849213f4265","middleName":"","uid":"73b1aceb","abcid":"34dc1116","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231"},"userEducations":[{"userId":"8bd4e8ee-de32-42f0-bbbc-b849213f4265","tenantId":"6668c249-6b25-4a81-a24e-02d2a90a3231","education":"","institutionName":"","university":"","degree":"","startDate":null,"endDate":null,"lastModificationTime":null,"lastModifierId":null,"creationTime":"2023-03-21T10:08:50.1335174+00:00","creatorId":"37e618ad-f8e6-4054-9e48-a38e8f87ff82","id":30}]}}

@@ -1,0 +1,10 @@
+Login
+-----
+signin button
+--------------
+Auth Provider.js
+----------------
+fa5b33a2d4b947f0
+
+
+https://lx-platform-b2a.azurewebsites.net/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3D3e9af809-6316-4ec5-8921-676b93ea336c%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%253A3000%252Fsignin-oidc%26response_type%3Dcode%26scope%3Dopenid%2520profile%2520default-api%2520offline_access%26state%3D13c5406512454e32ae0037c078cc8834%26code_challenge%3DLl6zLW-L5nF720bpNOd1j5ZdMHxkROAgf3aFLYIHq4M%26code_challenge_method%3DS256%26response_mode%3Dquery%26tenantName%3DAnnaUniversity,Google
