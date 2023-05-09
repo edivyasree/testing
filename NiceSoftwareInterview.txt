@@ -1,0 +1,9 @@
+1.Brief introduction
+2.How many applications you have developed.
+3.Best Performance to improve html and css.
+4.Cross browser compatability in different browsers.
+5.Diff between state and props in react.
+6.virtual Dom and Real Dom
+7.Server side rendering in reactjs.
+8.Controlled and Uncontrolled components in reactjs.
+9.Diff b/w react and react native.

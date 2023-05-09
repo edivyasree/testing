@@ -1,0 +1,24 @@
+----------------Asiya-----------------------------------
+1.Progressive web Design
+2.Ensure performance of website is good.
+3.what Version control you are using.
+4.Hovering a processs
+5.Difference between cookie and session storage.
+6.website hosted in AWS and migrated to Google cloud
+7.How you import images.
+8.Light House course.
+--------------Divya----------------------------------
+1.Components what you have devopled on in your project
+2.Scope in javascript development.
+3.Framework used in your react project.(mern stack)
+4.Front end backend stack
+5.What is the database you are using.
+6.How will you integrate the api?
+7.classic css,scss or
+8.How will handle resolution in css.
+9.How bootstrap is rendering the the page.
+10.Maximum number of layouts using grid/column.
+11.have you worked on media query.
+12.purpose of media query.
+13.Box template.
+14.Diff between padding and margin

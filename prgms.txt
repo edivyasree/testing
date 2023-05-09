@@ -1,0 +1,223 @@
+let arr=[2,3,4,45,56,7,3,32,2,4,45,53,23,,2,3,3,2]
+let obj={}
+for(let i of arr){
+    
+     obj[i]=(obj[i]||0)+1
+}
+console.log(obj)
+
+o/p:{
+  '2': 4,
+  '3': 4,
+  '4': 2,
+  '7': 1,
+  '23': 1,
+  '32': 1,
+  '45': 2,
+  '53': 1,
+  '56': 1,
+  undefined: 1
+}
+------------------------------------------------------------------------------------------------------
+
+let first= "a";
+var second ="b";
+/* let third */
+if(true){
+let  third="c";
+second="new B";
+}
+console.log(first);
+console.log(second);
+console.log(third);
+
+o/p:
+
+"a"
+"new B"
+"<a class='gotoLine' href='#50:13'>50:13</a> Uncaught ReferenceError: third is not defined"
+
+
+
+As let is block scope we can't access it.
+
+-----------------------------------------------------------------------------------------------------------
+let first= "a";
+var second ="b";
+/* let third */
+if(true){
+var  third="c";
+second="new B";
+}
+console.log(first);
+console.log(second);
+console.log(third);
+
+
+o/p:
+
+"a"
+"new B"
+"c"
+
+Here var is global scope so we cant acesss the variable 'c'.
+--------------------------------------------------------------------------------------------------------------------------
+
+12.Add one more property to object with parameter without using "."
+
+
+const obj={
+name:"asiya"
+}
+obj.age="28"
+console.log(obj)
+
+o/p:
+
+{
+  age: "28",
+  name: "asiya"
+}
+
+-------------------------------------------------------------------------------------------------------------
+
+11.how you add a property to object,any method without using "."
+
+var obj={
+name:"asiya",
+}
+var age;
+ obj['age']="28";
+console.log(obj) 
+
+
+
+var a={
+name:"acnn",
+}
+a['streer']='use'
+console.log(a)
+
+o/p:{
+  age: "28",
+  name: "asiya"
+}
+{
+  name: "acnn",
+  streer: "use"
+}
+------------------------------------------------------------------------------------------------------
+13.Suppose you have 2 objects and you have to merge 2 objects property into 
+one object
+ex: object 1 with propery name,object 2 with property age i need 1 object with both keys as one object
+const obj1={
+name:"abc"
+}
+const obj2={
+age:3
+}
+
+--------------------------------------------------------------------------------------------------------------
+let arr = [ 
+    { 
+        name:"venkat",
+         age:"20"
+         }, 
+         {  name:"vinay",
+          age:"21" 
+          }, 
+          { name:"kalyan", 
+           age:"22" 
+           }, 
+           { 
+               name:"krishna",
+                age:"23" 
+            } 
+        ]
+ const n=arr.length-1;
+
+arr.map((e,i)=>{
+
+if(i!=0 && i!=n){
+
+    console.log(e)
+
+}
+
+})
+
+o/p:
+{
+  age: "21",
+  name: "vinay"
+}
+{
+  age: "22",
+  name: "kalyan"
+}
+--------------------------------------------------------------------------------------------------------------
+let arr = [{
+    name: "venkat",
+    age: "20"
+  },
+  {
+    name: "vinay",
+    age: "21"
+  },
+  {
+    name: "kalyan",
+    age: "22"
+  },
+  {
+    name: "krishna",
+    age: "23"
+  }
+]
+arr.map((e,i)=>{
+arr[i].phone=i+1
+
+})
+console.log(arr)
+
+0/p:
+[{
+  age: "20",
+  name: "venkat",
+  phone: 1
+}, {
+  age: "21",
+  name: "vinay",
+  phone: 2
+}, {
+  age: "22",
+  name: "kalyan",
+  phone: 3
+}, {
+  age: "23",
+  name: "krishna",
+  phone: 4
+}]
+--------------------------------------------------------------------------------------------------------------------------------
+let arr=[1,2,3,4]
+let arr1=arr.unshift(7)
+console.log(arr)
+
+o/p:[ 7, 1, 2, 3, 4 ]
+
+---------------------------------------------------------------------------------------------------------------------------------
+19. const obj={
+name:"abc",
+age:11,
+address:"india"
+}
+I need only address parameter.Without using obj.address.?
+with object destructuring?
+
+
+const obj={
+name:"abc",
+age:11,
+address:"india"
+}
+const{address}=obj
+console.log(address)

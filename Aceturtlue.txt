@@ -1,0 +1,37 @@
+--------------------------------------------Divya--------------------------------------------------------------------------
+1.About Projects.
+2.why react vs angular 
+3.major features in ReactJS.
+4.Redux ?
+5.React build in modules.
+6.what is a Component?
+7.Functional vs class components?Why you choose functional component.
+8.class components have you used anywhere.
+9.Life cycle of class components.
+10.functional components life cycle methods.
+11.Hooks in functional components.
+12.what is props.
+13.How we will render the props.
+14.how will props trigger the state change.
+15.USeref ?
+16.React JSX files or JS file?
+what is JSX.
+17.Difference between element and component?
+18.Props mutable or immutable.
+19.Faced issue in project how you optimized it?
+20.How you optimized errors in application.
+21.How you debug your application.
+22.Rendering or loading issues.
+23.Can you explian about react router.
+24.History instance in react router.
+25.Push replace for url.
+26.virtual Dom vs Real dom
+27.How you used intertranslastion (other language).
+28.Redux 
+29.App like instragram lot of images are loading .website is too slow how you debug it.
+30.Assume components are loading.
+31.What are the request api's
+32.get api?
+33.create Handburger
+33.axios.post login page?
+------------------------------------------------Srikanth-------------------------------------------------------------
